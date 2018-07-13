@@ -11,7 +11,7 @@ In order to get the application going, clone this respository and run entertainm
 
 ## <b> Requirements <p>
 * Python 3
-* Web Browser
+* Webbrowser
   
   
   
